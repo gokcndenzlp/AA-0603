@@ -17,13 +17,13 @@ Zaman Karmaşıklığı:
 Algoritma diziyi O(n) zaman karmaşıklığında tarar.
 Best case (En iyi durum): İlk eleman en büyükse O(n)
 Worst case (En kötü durum): Son eleman en büyükse O(n)
-MatrixSum Algoritması
-Amaç: Bir matrisin tüm elemanlarının toplamını bulmak.
+### **MatrixSum Algoritması**
+**Amaç**: Bir matrisin tüm elemanlarının toplamını bulmak.
 Zaman Karmaşıklığı:
 Matrisin tüm elemanlarını tek tek topladığı için O(n × m)
 Best case / Worst case değişmez, her zaman O(n × m) olur.
-📈 Big-O Analizi ve Notlar
-Arama Algoritmaları
+### **📈 Big-O Analizi ve Notlar**
+**Arama Algoritmaları**
 Doğrusal arama (Linear Search): O(n)
 Binary Search (İkili Arama - Sıralı diziler için):
 Best case: O(1) (İlk denemede bulunursa)
